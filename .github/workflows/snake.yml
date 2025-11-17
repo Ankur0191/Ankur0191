@@ -1,22 +1,26 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@master
-        id: snake
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Ankur0191
+          github_user_name: "Ankur0191"
           outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2
+      - name: Upload to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
