@@ -5,10 +5,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=800&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankur+Mishra+👋;Founder+of+CMatrix+🚀;Full+Stack+Developer+%7C+AI+Engineer;Next.js+%7C+FastAPI+%7C+Generative+AI" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankur+Mishra;Founder+of+CMatrix;Full+Stack+Developer;AI+Engineer;Next.js+FastAPI+Node.js+Python" />
 </p>
+
 
 ---
 
