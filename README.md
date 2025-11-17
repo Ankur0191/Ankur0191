@@ -5,14 +5,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&center=true&vCenter=true&width=600&lines=Ankur+Mishra;Full+Stack+Developer;AI+Engineer;Building+CMatrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&center=true&vCenter=true&width=600&lines=This+is+Ankur+Mishra;Full+Stack+Developer;AI+Engineer;Building+CMatrix" />
 </p>
 
 ## About Me
 
-I am Ankur Mishra, a full stack developer and AI engineer. I work mainly with Next.js, FastAPI, Node.js, Python, Flutter and Firebase.  
-I am building CMatrix, a student focused learning platform.  
-I am currently exploring system design, LLM fine tuning and CI/CD pipelines.  
+This is Ankur Mishra, a full stack developer and AI engineer. I work mainly with Next.js, FastAPI, Node.js, Python, Flutter and Firebase.  
+I am building CMatrix, a student focused learning platform , currently exploring system design, LLM fine tuning and CI/CD pipelines.  
 I like working on practical systems that scale and solve real problems.
 
 ## Tech Stack
