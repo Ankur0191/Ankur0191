@@ -63,8 +63,10 @@ I'm **Ankur Mishra**, a **Full Stack Developer & AI Engineer** focused on buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankur0191&theme=tokyonight&hide_border=true&mode=daily" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankur0191&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur0191&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 
 ---
