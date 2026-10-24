@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ankur Mishra — Software Engineer and AI Systems</title>
+  <desc id="desc">Dark technical profile banner with a terminal-inspired interface, grid lines, and connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d18"/>
+      <stop offset="58%" stop-color="#0b1423"/>
+      <stop offset="100%" stop-color="#101d32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#5b789e" stroke-opacity=".13" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="43%" r="60%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity=".23"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+  <path d="M0 285 C190 245 315 335 500 290 S850 225 1200 270" fill="none" stroke="#22d3ee" stroke-opacity=".17" stroke-width="1.5"/>
+  <path d="M0 300 C200 265 330 350 520 305 S880 240 1200 285" fill="none" stroke="#818cf8" stroke-opacity=".13" stroke-width="1"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="54" y="42" width="206" height="28" rx="14" fill="#12283a" stroke="#26546a"/>
+    <circle cx="71" cy="56" r="4" fill="#34d399"/>
+    <text x="84" y="60" fill="#9be8f5" font-size="12" letter-spacing="1.7">ENGINEERING / AI</text>
+    <text x="54" y="139" fill="#f1f5f9" font-size="49" font-weight="700" letter-spacing="-1.5">ANKUR MISHRA</text>
+    <rect x="56" y="158" width="72" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="54" y="199" fill="#67e8f9" font-size="18" letter-spacing=".5">SOFTWARE ENGINEERING  ·  AI SYSTEMS</text>
+    <text x="54" y="232" fill="#a8b6ca" font-size="15">Building practical software, APIs, and intelligent applications.</text>
+    <text x="54" y="309" fill="#64748b" font-size="12">PYTHON  /  TYPESCRIPT  /  FASTAPI  /  NEXT.JS  /  ML</text>
+  </g>
+  <g transform="translate(760 65)">
+    <rect width="372" height="228" rx="13" fill="#080d16" fill-opacity=".9" stroke="#33465f" stroke-width="1.2"/>
+    <path d="M0 42H372" stroke="#33465f"/>
+    <circle cx="19" cy="21" r="4" fill="#fb7185"/>
+    <circle cx="34" cy="21" r="4" fill="#fbbf24"/>
+    <circle cx="49" cy="21" r="4" fill="#34d399"/>
+    <text x="70" y="25" fill="#64748b" font-size="11">ankur@dev — zsh</text>
+    <g font-size="13">
+      <text x="22" y="73" fill="#34d399">$</text>
+      <text x="38" y="73" fill="#dbeafe">whoami</text>
+      <text x="22" y="98" fill="#93a4bc">software_engineer</text>
+      <text x="22" y="128" fill="#34d399">$</text>
+      <text x="38" y="128" fill="#dbeafe">focus --now</text>
+      <text x="22" y="153" fill="#67e8f9">AI systems</text>
+      <text x="112" y="153" fill="#64748b">·</text>
+      <text x="127" y="153" fill="#a5b4fc">backend</text>
+      <text x="201" y="153" fill="#64748b">·</text>
+      <text x="216" y="153" fill="#67e8f9">product</text>
+      <text x="22" y="183" fill="#34d399">$</text>
+      <text x="38" y="183" fill="#dbeafe">git status</text>
+      <rect x="22" y="198" width="7" height="12" rx="1" fill="#22d3ee"/>
+      <text x="38" y="208" fill="#7c8da8">always building something</text>
+    </g>
+    <path d="M320 72l18 18-18 18" fill="none" stroke="#22d3ee" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M320 117l18 18-18 18" fill="none" stroke="#818cf8" stroke-opacity=".55" stroke-width="1.5"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="705" cy="88" r="3"/><circle cx="727" cy="88" r="3" opacity=".6"/><circle cx="749" cy="88" r="3" opacity=".3"/>
+    <circle cx="706" cy="110" r="2" opacity=".5"/><circle cx="728" cy="110" r="2" opacity=".3"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="359" rx="21.5" fill="none" stroke="#405573" stroke-opacity=".55"/>
+</svg>
