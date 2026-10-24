@@ -1,139 +1,122 @@
-<!-- SEO: Full Stack Developer, AI Engineer, Next.js, FastAPI, Node.js, MongoDB, System Design, LLMs, GitHub, CMatrix -->
+<!--
+  Ankur Mishra — GitHub profile
+  Focus: software engineering, AI systems, and product development.
+-->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankur0191/Ankur0191/main/banner.png" width="100%" alt="Banner" />
+<div align="center">
+
+# Ankur Mishra
+
+**Software Engineer · AI Systems · Product Builder**
+
+I build software that turns messy, real-world problems into useful products —  
+from backend services and data workflows to AI-powered learning tools.
+
+<p>
+  <a href="https://www.linkedin.com/in/ankur-mishra/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Ankur0191?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://thecmatrix.com">CMatrix</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ankur+Mishra;Full+Stack+Developer+%26+AI+Engineer;Building+CMatrix+%F0%9F%9A%80;Designing+scalable+learning+systems" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ankur0191">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankur-mishra/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 👋 About Me
-
-I'm **Ankur Mishra**, a **Full Stack Developer & AI Engineer** focused on building **practical, scalable systems**.
-
-- 🚀 Founder of **CMatrix** — a student-first learning OS
-- 🧠 Exploring **System Design, LLM fine-tuning & AI infrastructure**
-- ⚙️ I enjoy turning **ideas → real products**
-
-> *We are not the top rankers. We are the last bench builders.*
-
----
-
-## ✨ Highlights
-
-- ✅ **Product-first builder**: shipping fast, iterating faster
-- ✅ **AI + Web fusion**: building LLM-enabled workflows
-- ✅ **Community-driven**: mentoring and learning in public
-
----
-
-## 🧰 Tech Stack
+## What I work on
 
 <table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LLMs-8000FF?style=for-the-badge" alt="LLMs" />
-      <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" alt="LangChain" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" alt="Firebase" />
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI-powered products
+
+Building practical LLM applications, summarisation workflows, retrieval-augmented experiences, and tools that make complex information easier to use.
+
+</td>
+<td width="50%" valign="top">
+
+### Backend & systems
+
+Designing APIs, authentication flows, data models, integrations, and dependable services — with attention to security, maintainability, and real-world constraints.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Full-stack development
+
+Taking a feature from interface to database: product-focused web applications, responsive experiences, and connected services.
+
+</td>
+<td width="50%" valign="top">
+
+### Product engineering
+
+Working across the full lifecycle: understanding the problem, choosing the architecture, implementing the solution, debugging it, and improving what ships.
+
+</td>
+</tr>
 </table>
 
+## Currently building
+
+### CMatrix
+
+A learning platform exploring the intersection of education, software engineering, and AI.
+
+- AI-assisted learning experiences, including lecture summarisation and study workflows
+- Backend APIs, identity flows, and data-driven product features
+- A product-first approach to making technical learning more accessible
+
+**Product:** [thecmatrix.com](https://thecmatrix.com)
+
+> We are not the top rankers. We are the last bench builders.
+
+## Technical toolkit
+
+**Languages**  
+Python · JavaScript · SQL
+
+**Application development**  
+Next.js · React · FastAPI · Node.js · Express
+
+**AI / ML**  
+PyTorch · Hugging Face · Transformers · LoRA / PEFT · LangChain · LLM application development
+
+**Data & infrastructure**  
+Firebase · Firestore · MongoDB · Supabase · Git · GitHub Actions · Vercel · Docker
+
+*Tools are listed to reflect the areas I work in and explore; the right choice depends on the problem.*
+
+## Selected engineering interests
+
+- **AI systems:** moving from a model demo to a useful, integrated product.
+- **Reliable APIs:** clear contracts, validation, authentication, rate limiting, and observability.
+- **Data workflows:** collecting, transforming, validating, and presenting information people can act on.
+- **Product quality:** useful interfaces, readable code, thoughtful architecture, and iterative delivery.
+
+## GitHub activity
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ankur0191&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub activity overview"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur0191&layout=compact&hide_border=true&langs_count=6"
+    alt="Most-used languages across public repositories"
+    height="165"
+  />
+</div>
+
 ---
 
-## 📊 Performance & Impact
+<div align="center">
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ankur0191&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur0191&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
-</p>
+*Build thoughtfully. Ship useful things. Keep improving.*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur0191&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankur0191&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankur0191&theme=tokyonight" alt="Contribution streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankur0191/Ankur0191/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankur0191/Ankur0191/main/github-metrics.svg" alt="GitHub metrics" />
-</p>
-
----
-
-## 🧰 Tools I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/FlutLab-02569B?style=for-the-badge&logo=flutter" alt="FlutLab" />
-</p>
-
----
-
-⭐ *Building in public. Learning relentlessly.*
+</div>
