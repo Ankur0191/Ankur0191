@@ -1,122 +1,107 @@
 <!--
-  Ankur Mishra — GitHub profile
-  Focus: software engineering, AI systems, and product development.
+  Ankur Mishra | Software Engineering · AI Systems · Full-stack Development
 -->
 
-<div align="center">
-
-# Ankur Mishra
-
-**Software Engineer · AI Systems · Product Builder**
-
-I build software that turns messy, real-world problems into useful products —  
-from backend services and data workflows to AI-powered learning tools.
-
-<p>
-  <a href="https://www.linkedin.com/in/ankur-mishra/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Ankur0191?tab=repositories">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://thecmatrix.com">CMatrix</a>
+<p align="center">
+  <img src="profile-hero.svg" width="100%" alt="Ankur Mishra — Software Engineering and AI Systems" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Ankur0191?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20repositories-111827?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://www.linkedin.com/in/ankur-mishra/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20Backend-0891B2?style=flat-square" alt="AI and backend engineering" />
+</p>
 
 ---
 
-## What I work on
+## `~/about`
+
+I'm Ankur — a software engineer interested in the systems behind useful products: APIs, data pipelines, applied machine learning, and thoughtful interfaces.
+
+I like working across the stack, from shaping a problem and designing its architecture to integrating services, debugging edge cases, and polishing the experience people actually use.
+
+```bash
+ankur@github:~$ whoami
+software engineer | AI systems | full-stack development
+
+ankur@github:~$ areas --active
+applied-LLMs  backend-APIs  data-products  developer-tools
+
+ankur@github:~$ principle
+build it clearly • test the assumptions • ship the useful thing
+```
+
+## `~/selected-work`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### AI-powered products
-
-Building practical LLM applications, summarisation workflows, retrieval-augmented experiences, and tools that make complex information easier to use.
-
-</td>
-<td width="50%" valign="top">
-
-### Backend & systems
-
-Designing APIs, authentication flows, data models, integrations, and dependable services — with attention to security, maintainability, and real-world constraints.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Full-stack development
-
-Taking a feature from interface to database: product-focused web applications, responsive experiences, and connected services.
-
-</td>
-<td width="50%" valign="top">
-
-### Product engineering
-
-Working across the full lifecycle: understanding the problem, choosing the architecture, implementing the solution, debugging it, and improving what ships.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankur0191/payments-fraud-detection">01 / FraudShield</a></h3>
+      <p>A fraud-risk dashboard prototype combining a web interface with a Python API.</p>
+      <p><code>Next.js</code> <code>Material UI</code> <code>FastAPI</code> <code>MongoDB</code></p>
+      <sub>Current repository notes: transaction data is mocked; model integration is a planned next step.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankur0191/ai-infra-analyzer_for_business">02 / AI Infra Copilot</a></h3>
+      <p>An AI-task and infrastructure workflow project with a Python API and a lightweight operational UI.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Uvicorn</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
 
-## Currently building
+<p align="right"><a href="https://github.com/Ankur0191?tab=repositories">More repositories ↗</a></p>
 
-### CMatrix
+## `~/toolchain`
 
-A learning platform exploring the intersection of education, software engineering, and AI.
+**Languages**
 
-- AI-assisted learning experiences, including lecture summarisation and study workflows
-- Backend APIs, identity flows, and data-driven product features
-- A product-first approach to making technical learning more accessible
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**Product:** [thecmatrix.com](https://thecmatrix.com)
+**Web & backend**
 
-> We are not the top rankers. We are the last bench builders.
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933)
 
-## Technical toolkit
+**AI / ML**
 
-**Languages**  
-Python · JavaScript · SQL
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/Transformers-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=chainlink&logoColor=FFFFFF)
 
-**Application development**  
-Next.js · React · FastAPI · Node.js · Express
+**Data & delivery**
 
-**AI / ML**  
-PyTorch · Hugging Face · Transformers · LoRA / PEFT · LangChain · LLM application development
+![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1F2937?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=FFFFFF)
 
-**Data & infrastructure**  
-Firebase · Firestore · MongoDB · Supabase · Git · GitHub Actions · Vercel · Docker
+## `~/engineering-notes`
 
-*Tools are listed to reflect the areas I work in and explore; the right choice depends on the problem.*
+- **AI in production:** useful workflows, evaluation, integration, and the gap between a demo and a dependable feature.
+- **Backend quality:** clear API contracts, authentication, validation, failure handling, and maintainable services.
+- **Data-rich products:** turning noisy data into information that is easier to understand and act on.
+- **Developer experience:** interfaces and tooling that make complex work feel simpler.
 
-## Selected engineering interests
+## `~/github --stats`
 
-- **AI systems:** moving from a model demo to a useful, integrated product.
-- **Reliable APIs:** clear contracts, validation, authentication, rate limiting, and observability.
-- **Data workflows:** collecting, transforming, validating, and presenting information people can act on.
-- **Product quality:** useful interfaces, readable code, thoughtful architecture, and iterative delivery.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankur0191&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur0191&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+</p>
 
-## GitHub activity
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankur0191&show_icons=true&hide_border=true&rank_icon=github"
-    alt="GitHub activity overview"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur0191&layout=compact&hide_border=true&langs_count=6"
-    alt="Most-used languages across public repositories"
-    height="165"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur0191&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>
 
 ---
 
-<div align="center">
-
-*Build thoughtfully. Ship useful things. Keep improving.*
-
-</div>
+<p align="center">
+  <sub>Less noise. Better systems. Useful software.</sub>
+</p>
