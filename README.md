@@ -97,7 +97,10 @@ build it clearly • test the assumptions • ship the useful thing
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur0191&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/Ankur0191/Ankur0191/main/activity-graph.svg" width="100%" alt="Self-hosted GitHub contribution activity graph, updated daily" />
+</p>
+<p align="center">
+  <sub>Generated from GitHub's public contribution calendar · refreshed daily by GitHub Actions</sub>
 </p>
 
 ---
