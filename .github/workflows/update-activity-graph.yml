@@ -1,0 +1,43 @@
+name: Refresh contribution activity graph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-activity-graph.yml"
+      - "scripts/update_activity_graph.py"
+      - "README.md"
+  schedule:
+    - cron: "23 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contribution graph
+        run: python scripts/update_activity_graph.py
+
+      - name: Commit refreshed SVG if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "Contribution graph is already up to date."
+          else
+            git commit -m "chore: refresh contribution activity graph"
+            git push
+          fi
